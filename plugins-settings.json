@@ -1,0 +1,25 @@
+{
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "3127c15f-fa30-42f9-8f33-7b2fdd585626",
+        "name": "Charts",
+        "designId": "8a4863b8-3f04-4be8-aae4-fc5351b44707",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "cd33cf33-e29f-4e8c-ac26-b997fe507ce7": {
+        "id": "921ce66e-0ba0-40f8-9e6b-5b6d16909099",
+        "name": "Xano",
+        "designId": "8a4863b8-3f04-4be8-aae4-fc5351b44707",
+        "pluginId": "cd33cf33-e29f-4e8c-ac26-b997fe507ce7",
+        "publicData": {
+            "domain": "x8ki-letl-twmt.n7.xano.io"
+        }
+    },
+    "97e7b1ae-f88a-4697-849c-ee56ab49bb48": {
+        "id": "e9ef378d-7b03-4bcb-a06c-016adeee2104",
+        "name": "JavaScript",
+        "designId": "8a4863b8-3f04-4be8-aae4-fc5351b44707",
+        "pluginId": "97e7b1ae-f88a-4697-849c-ee56ab49bb48",
+        "publicData": {}
+    }
+}
